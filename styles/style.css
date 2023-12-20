@@ -153,14 +153,9 @@ body {
 } 
 
 .galeria__fotos__foto {
-    width: 10%;
+    width: 15%;
     border-radius: 8px;
     border: 4px solid #810000;
-}
-
-.galeria__fotos__foto:hover{
-    width: 400px;
-    transition: 2s;
 }
 
 .rodape {
